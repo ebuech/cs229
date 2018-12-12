@@ -1,3 +1,5 @@
+# Lily Buechler, CS 229 (Fall 2018)
+
 import glob
 import numpy as np
 import pandas
